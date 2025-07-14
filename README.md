@@ -53,7 +53,7 @@ This project helps Human Resource teams identify areas of concern related to emp
 
 ---
 
-#Key Takeaways
+#Key Takeaways<br>
 -Employees aged 26–35 had the highest attrition rate, suggesting this age group is more likely to switch jobs or explore better opportunities.<br>
 -Lower salary ranges (below ₹10,000/month) saw the most attrition, indicating compensation could be a major factor in employee turnover.<br>
 -The Human Resources department showed the highest number of employees leaving, which may reflect internal dissatisfaction or role misalignment.<br>
